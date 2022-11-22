@@ -41,3 +41,9 @@ For more detailed instructions, you can [download the complete user guide here](
 7. You can save three different ships and open them later. 
 8. Check the logbook occasionally to compare your scores to others 
 
+## More information
+
+For more information on FLEET, you can visit the [FLEET section of the ASNE Website](https://www.navalengineers.org/STEM-FLEET)
+
+Also, if you need help or have other questions you can always email us at [fleet@navalengineers.org](mailto:fleet@navalengineers.org)
+
